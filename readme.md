@@ -20,3 +20,7 @@ Output will be piped to another window in the app.
    1. in the terminal, go to your project directory, make sure it is `venv` is activated, then `which python3` command
 
 1. Save the file and then run your program with the new build system. It will appear in the build system tab in tools.
+
+## Sources
+
+- [Stackoverflow - 64580984](https://stackoverflow.com/questions/64580984/how-to-use-sublimetext-within-a-venv)
